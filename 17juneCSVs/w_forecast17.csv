@@ -1,0 +1,593 @@
+date,region,min,max
+2020-06-18,India_Andaman and Nicobar Islands,26.8,28.6
+2020-06-19,India_Andaman and Nicobar Islands,27.2,30.8
+2020-06-20,India_Andaman and Nicobar Islands,26.7,30.3
+2020-06-21,India_Andaman and Nicobar Islands,27.5,29.9
+2020-06-22,India_Andaman and Nicobar Islands,27.3,30.5
+2020-06-23,India_Andaman and Nicobar Islands,26.4,29
+2020-06-24,India_Andaman and Nicobar Islands,26.4,28.9
+2020-06-25,India_Andaman and Nicobar Islands,26.7,28.7
+2020-06-26,India_Andaman and Nicobar Islands,26.8,29.5
+2020-06-27,India_Andaman and Nicobar Islands,27,28.4
+2020-06-28,India_Andaman and Nicobar Islands,27.1,30.1
+2020-06-29,India_Andaman and Nicobar Islands,27.1,29.7
+2020-06-30,India_Andaman and Nicobar Islands,26.9,30.1
+2020-07-01,India_Andaman and Nicobar Islands,27,29.9
+2020-07-02,India_Andaman and Nicobar Islands,27.1,30
+2020-07-03,India_Andaman and Nicobar Islands,27.3,29.8
+2020-06-18,India_Andhra Pradesh,28.2,34.6
+2020-06-19,India_Andhra Pradesh,28,37.8
+2020-06-20,India_Andhra Pradesh,25.9,37.2
+2020-06-21,India_Andhra Pradesh,24.9,34.3
+2020-06-22,India_Andhra Pradesh,25.3,27.2
+2020-06-23,India_Andhra Pradesh,24.6,29.9
+2020-06-24,India_Andhra Pradesh,25.2,33.9
+2020-06-25,India_Andhra Pradesh,26.7,36.1
+2020-06-26,India_Andhra Pradesh,27.4,36.5
+2020-06-27,India_Andhra Pradesh,25.4,30.7
+2020-06-28,India_Andhra Pradesh,25.6,27.4
+2020-06-29,India_Andhra Pradesh,25.6,32.2
+2020-06-30,India_Andhra Pradesh,26.4,34.6
+2020-07-01,India_Andhra Pradesh,27,34.1
+2020-07-02,India_Andhra Pradesh,26.9,33
+2020-07-03,India_Andhra Pradesh,27.1,32.4
+2020-06-18,India_Arunachal Pradesh,23.1,26.8
+2020-06-19,India_Arunachal Pradesh,22.7,28.8
+2020-06-20,India_Arunachal Pradesh,22.9,29
+2020-06-21,India_Arunachal Pradesh,22.8,27.9
+2020-06-22,India_Arunachal Pradesh,22.5,27.9
+2020-06-23,India_Arunachal Pradesh,22.4,28.4
+2020-06-24,India_Arunachal Pradesh,22.3,29.6
+2020-06-25,India_Arunachal Pradesh,22.9,31.1
+2020-06-26,India_Arunachal Pradesh,23,31.6
+2020-06-27,India_Arunachal Pradesh,22.3,31.4
+2020-06-28,India_Arunachal Pradesh,22.8,29.3
+2020-06-29,India_Arunachal Pradesh,22.2,24
+2020-06-30,India_Arunachal Pradesh,22.4,25.9
+2020-07-01,India_Arunachal Pradesh,22.5,28.3
+2020-07-02,India_Arunachal Pradesh,22.9,31.5
+2020-07-03,India_Arunachal Pradesh,23.9,31.9
+2020-06-18,India_Assam,24.6,31.3
+2020-06-19,India_Assam,24.2,30.1
+2020-06-20,India_Assam,25.1,31.7
+2020-06-21,India_Assam,25.1,29.9
+2020-06-22,India_Assam,24.9,29.6
+2020-06-23,India_Assam,24.3,28.2
+2020-06-24,India_Assam,24.1,31.2
+2020-06-25,India_Assam,24.6,30.9
+2020-06-26,India_Assam,24.7,31.6
+2020-06-27,India_Assam,25.2,33.1
+2020-06-28,India_Assam,24.8,32.8
+2020-06-29,India_Assam,23.6,25.5
+2020-06-30,India_Assam,23.9,25.6
+2020-07-01,India_Assam,24.3,29.7
+2020-07-02,India_Assam,24.6,32.6
+2020-07-03,India_Assam,25.4,33
+2020-06-18,India_Bihar,25.4,29.9
+2020-06-19,India_Bihar,25.2,31.8
+2020-06-20,India_Bihar,25.5,29.8
+2020-06-21,India_Bihar,25.9,32.5
+2020-06-22,India_Bihar,26,31
+2020-06-23,India_Bihar,25.5,27.4
+2020-06-24,India_Bihar,25.2,27.9
+2020-06-25,India_Bihar,24.9,26.5
+2020-06-26,India_Bihar,24.9,30.4
+2020-06-27,India_Bihar,25.7,34.5
+2020-06-28,India_Bihar,26.9,35.5
+2020-06-29,India_Bihar,26.8,34.3
+2020-06-30,India_Bihar,26.1,28.4
+2020-07-01,India_Bihar,25.8,31.5
+2020-07-02,India_Bihar,26.1,33.2
+2020-07-03,India_Bihar,26.8,33.6
+2020-06-18,India_Chandigarh,29.9,45
+2020-06-19,India_Chandigarh,29.9,45.3
+2020-06-20,India_Chandigarh,31.4,46
+2020-06-21,India_Chandigarh,31.4,45
+2020-06-22,India_Chandigarh,32.4,45.1
+2020-06-23,India_Chandigarh,32.9,45.5
+2020-06-24,India_Chandigarh,29.7,44.3
+2020-06-25,India_Chandigarh,26.2,39.7
+2020-06-26,India_Chandigarh,25.9,37.5
+2020-06-27,India_Chandigarh,26.1,36.4
+2020-06-28,India_Chandigarh,26.4,36.8
+2020-06-29,India_Chandigarh,29.1,38.1
+2020-06-30,India_Chandigarh,27.3,36.5
+2020-07-01,India_Chandigarh,26.9,36.9
+2020-07-02,India_Chandigarh,27.3,36
+2020-07-03,India_Chandigarh,27.9,36
+2020-06-18,India_Chattisgarh,26.4,35
+2020-06-19,India_Chattisgarh,27,32.4
+2020-06-20,India_Chattisgarh,24.6,36.7
+2020-06-21,India_Chattisgarh,25.2,31.6
+2020-06-22,India_Chattisgarh,24.7,31.3
+2020-06-23,India_Chattisgarh,24.6,32.9
+2020-06-24,India_Chattisgarh,27.2,35.9
+2020-06-25,India_Chattisgarh,29.2,36.5
+2020-06-26,India_Chattisgarh,29.4,37.1
+2020-06-27,India_Chattisgarh,28.1,37.4
+2020-06-28,India_Chattisgarh,28.4,36
+2020-06-29,India_Chattisgarh,26.4,34.1
+2020-06-30,India_Chattisgarh,26.4,34.1
+2020-07-01,India_Chattisgarh,25.9,35
+2020-07-02,India_Chattisgarh,24.4,25.9
+2020-07-03,India_Chattisgarh,24.4,25.1
+2020-06-18,India_Dadra and Nagar Haveli,26.4,29.4
+2020-06-19,India_Dadra and Nagar Haveli,26.1,33.6
+2020-06-20,India_Dadra and Nagar Haveli,26.8,34
+2020-06-21,India_Dadra and Nagar Haveli,26.9,33.5
+2020-06-22,India_Dadra and Nagar Haveli,26.6,33
+2020-06-23,India_Dadra and Nagar Haveli,27.1,33.8
+2020-06-24,India_Dadra and Nagar Haveli,26.7,33.5
+2020-06-25,India_Dadra and Nagar Haveli,26.8,33.9
+2020-06-26,India_Dadra and Nagar Haveli,27,35
+2020-06-27,India_Dadra and Nagar Haveli,27.2,34
+2020-06-28,India_Dadra and Nagar Haveli,26.4,29.9
+2020-06-29,India_Dadra and Nagar Haveli,25.6,30
+2020-06-30,India_Dadra and Nagar Haveli,25.6,29.6
+2020-07-01,India_Dadra and Nagar Haveli,26.3,31.1
+2020-07-02,India_Dadra and Nagar Haveli,25.1,27.6
+2020-07-03,India_Dadra and Nagar Haveli,25.1,25.4
+2020-06-18,India_Daman and Diu,27.2,29.8
+2020-06-19,India_Daman and Diu,27.2,34.2
+2020-06-20,India_Daman and Diu,27.7,34.5
+2020-06-21,India_Daman and Diu,27.9,34
+2020-06-22,India_Daman and Diu,27.4,33.8
+2020-06-23,India_Daman and Diu,27.8,34.2
+2020-06-24,India_Daman and Diu,27.6,34.1
+2020-06-25,India_Daman and Diu,27.6,34.3
+2020-06-26,India_Daman and Diu,27.8,34.9
+2020-06-27,India_Daman and Diu,28.1,34
+2020-06-28,India_Daman and Diu,26.8,30.4
+2020-06-29,India_Daman and Diu,26.1,30
+2020-06-30,India_Daman and Diu,26.1,28.1
+2020-07-01,India_Daman and Diu,26.8,30.8
+2020-07-02,India_Daman and Diu,25.4,27.9
+2020-07-03,India_Daman and Diu,25.4,26.4
+2020-06-18,India_Delhi,35.5,46.6
+2020-06-19,India_Delhi,32.7,45.5
+2020-06-20,India_Delhi,34.6,45.3
+2020-06-21,India_Delhi,36.1,44.4
+2020-06-22,India_Delhi,36.6,45.2
+2020-06-23,India_Delhi,37.1,45.6
+2020-06-24,India_Delhi,34.1,44.4
+2020-06-25,India_Delhi,30.4,41.2
+2020-06-26,India_Delhi,26.9,39.5
+2020-06-27,India_Delhi,27.6,40.4
+2020-06-28,India_Delhi,28.9,39.1
+2020-06-29,India_Delhi,31.6,39.1
+2020-06-30,India_Delhi,29.1,36.5
+2020-07-01,India_Delhi,29.4,38.1
+2020-07-02,India_Delhi,30.6,37.7
+2020-07-03,India_Delhi,30.6,37.4
+2020-06-18,India_Goa,24.5,29.1
+2020-06-19,India_Goa,24.2,29.9
+2020-06-20,India_Goa,25,29.2
+2020-06-21,India_Goa,24.4,29.8
+2020-06-22,India_Goa,24.4,28.6
+2020-06-23,India_Goa,23.9,27.1
+2020-06-24,India_Goa,23.3,30.4
+2020-06-25,India_Goa,25,28.9
+2020-06-26,India_Goa,24.6,29.1
+2020-06-27,India_Goa,24.6,30.1
+2020-06-28,India_Goa,23.6,25.1
+2020-06-29,India_Goa,23.4,25
+2020-06-30,India_Goa,23.6,26.3
+2020-07-01,India_Goa,24,29.1
+2020-07-02,India_Goa,24.9,27
+2020-07-03,India_Goa,25.3,28.1
+2020-06-18,India_Gujarat,28.6,34
+2020-06-19,India_Gujarat,29,37.1
+2020-06-20,India_Gujarat,29.1,35.5
+2020-06-21,India_Gujarat,29.1,35.9
+2020-06-22,India_Gujarat,28.8,34.9
+2020-06-23,India_Gujarat,28.7,34.3
+2020-06-24,India_Gujarat,29.8,36.1
+2020-06-25,India_Gujarat,29.7,35.4
+2020-06-26,India_Gujarat,29.5,35.8
+2020-06-27,India_Gujarat,29.9,35.6
+2020-06-28,India_Gujarat,29.3,35.3
+2020-06-29,India_Gujarat,27.9,32.4
+2020-06-30,India_Gujarat,27.9,33.4
+2020-07-01,India_Gujarat,27.9,33.7
+2020-07-02,India_Gujarat,27.1,33.3
+2020-07-03,India_Gujarat,27.3,28.4
+2020-06-18,India_Haryana,18.8,31.4
+2020-06-19,India_Haryana,18.6,31.5
+2020-06-20,India_Haryana,20.5,32.3
+2020-06-21,India_Haryana,19.9,31.6
+2020-06-22,India_Haryana,19.9,31.1
+2020-06-23,India_Haryana,21.2,31.6
+2020-06-24,India_Haryana,19.9,30.2
+2020-06-25,India_Haryana,18.5,25.9
+2020-06-26,India_Haryana,18.3,24.9
+2020-06-27,India_Haryana,18.6,26.4
+2020-06-28,India_Haryana,18.8,25.3
+2020-06-29,India_Haryana,18.8,25.2
+2020-06-30,India_Haryana,18.4,24.8
+2020-07-01,India_Haryana,18.4,23.7
+2020-07-02,India_Haryana,18.3,25.2
+2020-07-03,India_Haryana,18.3,25.1
+2020-06-18,India_Himachal Pradesh,34,46.8
+2020-06-19,India_Himachal Pradesh,35.6,46
+2020-06-20,India_Himachal Pradesh,35.4,45
+2020-06-21,India_Himachal Pradesh,34.6,44.3
+2020-06-22,India_Himachal Pradesh,35.6,44.5
+2020-06-23,India_Himachal Pradesh,35.1,45.4
+2020-06-24,India_Himachal Pradesh,34.1,45.4
+2020-06-25,India_Himachal Pradesh,29.4,44.9
+2020-06-26,India_Himachal Pradesh,26.6,41.5
+2020-06-27,India_Himachal Pradesh,27.9,41.5
+2020-06-28,India_Himachal Pradesh,30.8,40
+2020-06-29,India_Himachal Pradesh,31.9,41.4
+2020-06-30,India_Himachal Pradesh,31.1,38.6
+2020-07-01,India_Himachal Pradesh,30.6,37.7
+2020-07-02,India_Himachal Pradesh,29.9,39.7
+2020-07-03,India_Himachal Pradesh,30.3,39
+2020-06-18,India_Jammu and Kashmir,26.9,35
+2020-06-19,India_Jammu and Kashmir,27.8,36.1
+2020-06-20,India_Jammu and Kashmir,29.3,37.8
+2020-06-21,India_Jammu and Kashmir,29.6,37.3
+2020-06-22,India_Jammu and Kashmir,28.1,37.2
+2020-06-23,India_Jammu and Kashmir,27.9,35.9
+2020-06-24,India_Jammu and Kashmir,28.3,37
+2020-06-25,India_Jammu and Kashmir,28.2,36.6
+2020-06-26,India_Jammu and Kashmir,27.6,36.6
+2020-06-27,India_Jammu and Kashmir,27.1,37.5
+2020-06-28,India_Jammu and Kashmir,27.9,35
+2020-06-29,India_Jammu and Kashmir,27.9,35.4
+2020-06-30,India_Jammu and Kashmir,27.8,35
+2020-07-01,India_Jammu and Kashmir,27.1,33.7
+2020-07-02,India_Jammu and Kashmir,26.9,34.9
+2020-07-03,India_Jammu and Kashmir,26.9,34.6
+2020-06-18,India_Jharkhand,14.2,31.1
+2020-06-19,India_Jharkhand,14.6,31.3
+2020-06-20,India_Jharkhand,14.5,29.9
+2020-06-21,India_Jharkhand,13.8,29.3
+2020-06-22,India_Jharkhand,15,33
+2020-06-23,India_Jharkhand,17.6,35.3
+2020-06-24,India_Jharkhand,18.9,36.1
+2020-06-25,India_Jharkhand,14.9,32.6
+2020-06-26,India_Jharkhand,14.6,31.6
+2020-06-27,India_Jharkhand,16.1,32.5
+2020-06-28,India_Jharkhand,17.4,33.5
+2020-06-29,India_Jharkhand,18.3,35.3
+2020-06-30,India_Jharkhand,18.4,33
+2020-07-01,India_Jharkhand,17.3,33.5
+2020-07-02,India_Jharkhand,16.9,33.2
+2020-07-03,India_Jharkhand,17.3,31.4
+2020-06-18,India_Karnataka,23.6,31.2
+2020-06-19,India_Karnataka,23.4,32.1
+2020-06-20,India_Karnataka,23.4,31.8
+2020-06-21,India_Karnataka,23.1,31.4
+2020-06-22,India_Karnataka,21.8,27
+2020-06-23,India_Karnataka,21.7,24.6
+2020-06-24,India_Karnataka,21.9,30.1
+2020-06-25,India_Karnataka,22.9,31.3
+2020-06-26,India_Karnataka,23.5,31.6
+2020-06-27,India_Karnataka,22.9,28.9
+2020-06-28,India_Karnataka,21.9,25.1
+2020-06-29,India_Karnataka,22.1,25.1
+2020-06-30,India_Karnataka,22.1,26.9
+2020-07-01,India_Karnataka,22.7,30.1
+2020-07-02,India_Karnataka,23.1,28.1
+2020-07-03,India_Karnataka,23.1,25.6
+2020-06-18,India_Kerala,24.1,30.9
+2020-06-19,India_Kerala,23.8,32.4
+2020-06-20,India_Kerala,24,32.1
+2020-06-21,India_Kerala,23.4,28.1
+2020-06-22,India_Kerala,23,27.7
+2020-06-23,India_Kerala,23,28.6
+2020-06-24,India_Kerala,22.9,30.9
+2020-06-25,India_Kerala,23.5,27.7
+2020-06-26,India_Kerala,23.1,28.6
+2020-06-27,India_Kerala,23.4,28.6
+2020-06-28,India_Kerala,22.9,26.6
+2020-06-29,India_Kerala,22.9,28.9
+2020-06-30,India_Kerala,22.9,30.1
+2020-07-01,India_Kerala,23,30.9
+2020-07-02,India_Kerala,23.4,31.7
+2020-07-03,India_Kerala,23.4,31.1
+2020-06-18,India_Ladakh,2,9
+2020-06-19,India_Ladakh,1.9,9
+2020-06-20,India_Ladakh,2.4,10.3
+2020-06-21,India_Ladakh,3.1,11.2
+2020-06-22,India_Ladakh,4.1,13.1
+2020-06-23,India_Ladakh,6.2,15.6
+2020-06-24,India_Ladakh,7.4,15.9
+2020-06-25,India_Ladakh,6.7,14.4
+2020-06-26,India_Ladakh,7.7,15.3
+2020-06-27,India_Ladakh,6.6,15.8
+2020-06-28,India_Ladakh,7,16.6
+2020-06-29,India_Ladakh,7.8,17.8
+2020-06-30,India_Ladakh,8.5,17.4
+2020-07-01,India_Ladakh,7.4,17
+2020-07-02,India_Ladakh,6.7,16
+2020-07-03,India_Ladakh,6.7,12.8
+2020-06-18,India_Lakshadweep,29.1,29.8
+2020-06-19,India_Lakshadweep,28.6,29.6
+2020-06-20,India_Lakshadweep,29,29.6
+2020-06-21,India_Lakshadweep,28.2,29.4
+2020-06-22,India_Lakshadweep,27.9,29.3
+2020-06-23,India_Lakshadweep,28.6,29.1
+2020-06-24,India_Lakshadweep,28.5,29.4
+2020-06-25,India_Lakshadweep,28.7,29.3
+2020-06-26,India_Lakshadweep,27.8,29.3
+2020-06-27,India_Lakshadweep,28.5,29.3
+2020-06-28,India_Lakshadweep,28.8,29.1
+2020-06-29,India_Lakshadweep,28.6,29.3
+2020-06-30,India_Lakshadweep,28.8,29.3
+2020-07-01,India_Lakshadweep,28.4,29.1
+2020-07-02,India_Lakshadweep,28.1,29.1
+2020-07-03,India_Lakshadweep,28.6,29.1
+2020-06-18,India_Madhya Pradesh,26.1,37.8
+2020-06-19,India_Madhya Pradesh,27,38.5
+2020-06-20,India_Madhya Pradesh,25.4,37.4
+2020-06-21,India_Madhya Pradesh,27.2,37
+2020-06-22,India_Madhya Pradesh,26.1,36.8
+2020-06-23,India_Madhya Pradesh,26.5,34
+2020-06-24,India_Madhya Pradesh,25.6,32.5
+2020-06-25,India_Madhya Pradesh,26,33.6
+2020-06-26,India_Madhya Pradesh,26,35
+2020-06-27,India_Madhya Pradesh,25.4,35.8
+2020-06-28,India_Madhya Pradesh,25.1,31.4
+2020-06-29,India_Madhya Pradesh,24.6,29.2
+2020-06-30,India_Madhya Pradesh,24.6,32.3
+2020-07-01,India_Madhya Pradesh,24.4,32.6
+2020-07-02,India_Madhya Pradesh,24.3,25.9
+2020-07-03,India_Madhya Pradesh,24.6,29.6
+2020-06-18,India_Maharashtra,18.9,20.1
+2020-06-19,India_Maharashtra,18.7,24.8
+2020-06-20,India_Maharashtra,19.3,25.2
+2020-06-21,India_Maharashtra,18.9,25.2
+2020-06-22,India_Maharashtra,18.7,23.9
+2020-06-23,India_Maharashtra,18.5,21.8
+2020-06-24,India_Maharashtra,18.5,20.8
+2020-06-25,India_Maharashtra,17.9,22.7
+2020-06-26,India_Maharashtra,17.6,26.4
+2020-06-27,India_Maharashtra,17.7,27.1
+2020-06-28,India_Maharashtra,18.9,27.1
+2020-06-29,India_Maharashtra,18.8,19.2
+2020-06-30,India_Maharashtra,18.8,19.8
+2020-07-01,India_Maharashtra,18.7,23
+2020-07-02,India_Maharashtra,18.9,25.9
+2020-07-03,India_Maharashtra,19.8,24.9
+2020-06-18,India_Manipur,20.6,27
+2020-06-19,India_Manipur,20.2,29.1
+2020-06-20,India_Manipur,21,29.4
+2020-06-21,India_Manipur,21.5,29.6
+2020-06-22,India_Manipur,20.7,27.8
+2020-06-23,India_Manipur,21,29.5
+2020-06-24,India_Manipur,20.5,25.2
+2020-06-25,India_Manipur,20.3,27.1
+2020-06-26,India_Manipur,20.6,29.6
+2020-06-27,India_Manipur,20.6,30.9
+2020-06-28,India_Manipur,21.1,28.1
+2020-06-29,India_Manipur,20.4,22.6
+2020-06-30,India_Manipur,20.6,23.9
+2020-07-01,India_Manipur,20.7,27.5
+2020-07-02,India_Manipur,21.1,29.3
+2020-07-03,India_Manipur,22.1,27.8
+2020-06-18,India_Meghalaya,25.2,29.4
+2020-06-19,India_Meghalaya,24.3,33.9
+2020-06-20,India_Meghalaya,25.1,35.4
+2020-06-21,India_Meghalaya,25.2,35.6
+2020-06-22,India_Meghalaya,25.4,34.8
+2020-06-23,India_Meghalaya,25.7,32.7
+2020-06-24,India_Meghalaya,25.5,33.8
+2020-06-25,India_Meghalaya,23.5,32.4
+2020-06-26,India_Meghalaya,24.8,32.1
+2020-06-27,India_Meghalaya,25.2,32.9
+2020-06-28,India_Meghalaya,24.1,26.9
+2020-06-29,India_Meghalaya,24.4,28
+2020-06-30,India_Meghalaya,24.6,30.9
+2020-07-01,India_Meghalaya,24.7,30.9
+2020-07-02,India_Meghalaya,23.9,29.5
+2020-07-03,India_Meghalaya,23.6,25.8
+2020-06-18,India_Mizoram,21.1,27.4
+2020-06-19,India_Mizoram,20.8,31.3
+2020-06-20,India_Mizoram,21.1,32.4
+2020-06-21,India_Mizoram,21.4,32
+2020-06-22,India_Mizoram,21.8,32.8
+2020-06-23,India_Mizoram,21.7,29.4
+2020-06-24,India_Mizoram,21.6,30
+2020-06-25,India_Mizoram,21.8,27
+2020-06-26,India_Mizoram,21.8,31.7
+2020-06-27,India_Mizoram,22.1,33.4
+2020-06-28,India_Mizoram,21.9,26.9
+2020-06-29,India_Mizoram,21.4,25.4
+2020-06-30,India_Mizoram,21.3,28.4
+2020-07-01,India_Mizoram,21.1,25.2
+2020-07-02,India_Mizoram,21.6,28.7
+2020-07-03,India_Mizoram,22.4,29.1
+2020-06-18,India_Nagaland,20.1,25.6
+2020-06-19,India_Nagaland,20,27.1
+2020-06-20,India_Nagaland,20.2,26.2
+2020-06-21,India_Nagaland,20.1,25.1
+2020-06-22,India_Nagaland,20.1,25.6
+2020-06-23,India_Nagaland,19.7,27.3
+2020-06-24,India_Nagaland,19.7,24.7
+2020-06-25,India_Nagaland,19.6,27.9
+2020-06-26,India_Nagaland,19.7,28.4
+2020-06-27,India_Nagaland,19.6,28.4
+2020-06-28,India_Nagaland,20.4,27.1
+2020-06-29,India_Nagaland,19.4,21.7
+2020-06-30,India_Nagaland,19.9,22.6
+2020-07-01,India_Nagaland,19.8,25.1
+2020-07-02,India_Nagaland,20.4,27.3
+2020-07-03,India_Nagaland,21.1,26.1
+2020-06-18,India_Odisha,24.4,33.5
+2020-06-19,India_Odisha,25.2,33.2
+2020-06-20,India_Odisha,25.8,32.6
+2020-06-21,India_Odisha,24.6,33.8
+2020-06-22,India_Odisha,25.8,32.3
+2020-06-23,India_Odisha,25.9,35.2
+2020-06-24,India_Odisha,25.4,35.3
+2020-06-25,India_Odisha,25.8,35
+2020-06-26,India_Odisha,25.8,34.5
+2020-06-27,India_Odisha,25.1,34.6
+2020-06-28,India_Odisha,25.9,35.5
+2020-06-29,India_Odisha,25.6,32.6
+2020-06-30,India_Odisha,25.6,33.9
+2020-07-01,India_Odisha,24.9,33
+2020-07-02,India_Odisha,24.8,27
+2020-07-03,India_Odisha,24.9,29.4
+2020-06-18,India_Puducherry,29.4,45.4
+2020-06-19,India_Puducherry,30.2,44.6
+2020-06-20,India_Puducherry,31.1,45.7
+2020-06-21,India_Puducherry,30.5,45
+2020-06-22,India_Puducherry,31.2,45.1
+2020-06-23,India_Puducherry,33.5,47.2
+2020-06-24,India_Puducherry,31,46.3
+2020-06-25,India_Puducherry,26.3,43.2
+2020-06-26,India_Puducherry,26.2,39.5
+2020-06-27,India_Puducherry,26.2,38.1
+2020-06-28,India_Puducherry,26.6,38
+2020-06-29,India_Puducherry,29.1,39.1
+2020-06-30,India_Puducherry,27.1,38.3
+2020-07-01,India_Puducherry,26.6,36.3
+2020-07-02,India_Puducherry,26.1,37.5
+2020-07-03,India_Puducherry,26.1,34.9
+2020-06-18,India_Punjab,29.7,37.3
+2020-06-19,India_Punjab,28.5,38.4
+2020-06-20,India_Punjab,24.9,38.3
+2020-06-21,India_Punjab,24.9,30.3
+2020-06-22,India_Punjab,24.7,30.6
+2020-06-23,India_Punjab,26.1,32.7
+2020-06-24,India_Punjab,26.7,35.4
+2020-06-25,India_Punjab,28.2,33.4
+2020-06-26,India_Punjab,27.9,31.9
+2020-06-27,India_Punjab,26.6,31.6
+2020-06-28,India_Punjab,27.6,32.9
+2020-06-29,India_Punjab,25.9,30.9
+2020-06-30,India_Punjab,25.8,34.3
+2020-07-01,India_Punjab,25.4,31.7
+2020-07-02,India_Punjab,26.4,34.8
+2020-07-03,India_Punjab,28.1,36.5
+2020-06-18,India_Rajasthan,31.9,43.6
+2020-06-19,India_Rajasthan,31.8,42.6
+2020-06-20,India_Rajasthan,32,40.7
+2020-06-21,India_Rajasthan,31.7,40.6
+2020-06-22,India_Rajasthan,31.4,41
+2020-06-23,India_Rajasthan,32.3,42
+2020-06-24,India_Rajasthan,31.2,42.5
+2020-06-25,India_Rajasthan,31.2,42.1
+2020-06-26,India_Rajasthan,32.3,41.4
+2020-06-27,India_Rajasthan,32.4,42
+2020-06-28,India_Rajasthan,30.6,42.5
+2020-06-29,India_Rajasthan,28.9,42
+2020-06-30,India_Rajasthan,30.9,38.9
+2020-07-01,India_Rajasthan,31,39.3
+2020-07-02,India_Rajasthan,31.3,40.9
+2020-07-03,India_Rajasthan,31.3,40.4
+2020-06-18,India_Sikkim,18.7,21.5
+2020-06-19,India_Sikkim,18.4,26.8
+2020-06-20,India_Sikkim,18.3,27.4
+2020-06-21,India_Sikkim,20,27.9
+2020-06-22,India_Sikkim,19.4,23.3
+2020-06-23,India_Sikkim,19.5,25.3
+2020-06-24,India_Sikkim,19.5,28.1
+2020-06-25,India_Sikkim,19.2,22
+2020-06-26,India_Sikkim,18.1,21.3
+2020-06-27,India_Sikkim,18,27.1
+2020-06-28,India_Sikkim,18.9,27.9
+2020-06-29,India_Sikkim,18.9,25.9
+2020-06-30,India_Sikkim,18.9,24.3
+2020-07-01,India_Sikkim,18.9,26
+2020-07-02,India_Sikkim,19.3,26.4
+2020-07-03,India_Sikkim,20.6,25.9
+2020-06-18,India_Tamil Nadu,23.8,29.9
+2020-06-19,India_Tamil Nadu,23.9,32.5
+2020-06-20,India_Tamil Nadu,24.9,34.3
+2020-06-21,India_Tamil Nadu,25,33.5
+2020-06-22,India_Tamil Nadu,24.5,29.4
+2020-06-23,India_Tamil Nadu,23.3,25.9
+2020-06-24,India_Tamil Nadu,23.9,31.6
+2020-06-25,India_Tamil Nadu,23.6,31.6
+2020-06-26,India_Tamil Nadu,24.3,31.1
+2020-06-27,India_Tamil Nadu,22.8,28.6
+2020-06-28,India_Tamil Nadu,23.1,25.1
+2020-06-29,India_Tamil Nadu,23.3,28
+2020-06-30,India_Tamil Nadu,23.4,29.4
+2020-07-01,India_Tamil Nadu,23.7,30.6
+2020-07-02,India_Tamil Nadu,23.8,29.6
+2020-07-03,India_Tamil Nadu,23.4,24.4
+2020-06-18,India_Telangana,27.5,36.6
+2020-06-19,India_Telangana,27.1,38.2
+2020-06-20,India_Telangana,27.1,37.8
+2020-06-21,India_Telangana,25.6,31.1
+2020-06-22,India_Telangana,23.7,29.4
+2020-06-23,India_Telangana,24.6,30.3
+2020-06-24,India_Telangana,25.5,33.4
+2020-06-25,India_Telangana,26.4,33.3
+2020-06-26,India_Telangana,25.7,34.4
+2020-06-27,India_Telangana,26,34
+2020-06-28,India_Telangana,26.4,31.1
+2020-06-29,India_Telangana,26.1,30.9
+2020-06-30,India_Telangana,26.1,34.6
+2020-07-01,India_Telangana,26.3,35.7
+2020-07-02,India_Telangana,26.8,36.5
+2020-07-03,India_Telangana,26.8,36.8
+2020-06-18,India_Tripura,23.9,27.6
+2020-06-19,India_Tripura,23.8,32.8
+2020-06-20,India_Tripura,24.6,32.8
+2020-06-21,India_Tripura,24.9,33.5
+2020-06-22,India_Tripura,24.3,30.9
+2020-06-23,India_Tripura,24.9,32
+2020-06-24,India_Tripura,24.6,29.7
+2020-06-25,India_Tripura,24.2,32.9
+2020-06-26,India_Tripura,23.9,34.9
+2020-06-27,India_Tripura,24,34.5
+2020-06-28,India_Tripura,24.1,29.8
+2020-06-29,India_Tripura,24.1,26
+2020-06-30,India_Tripura,23.6,28.1
+2020-07-01,India_Tripura,23.5,27.9
+2020-07-02,India_Tripura,24.1,31.2
+2020-07-03,India_Tripura,24.4,30.4
+2020-06-18,India_Uttar Pradesh,30.6,38.1
+2020-06-19,India_Uttar Pradesh,29,41.1
+2020-06-20,India_Uttar Pradesh,30.2,43.7
+2020-06-21,India_Uttar Pradesh,29.2,43.8
+2020-06-22,India_Uttar Pradesh,31.6,44.5
+2020-06-23,India_Uttar Pradesh,29.1,40.6
+2020-06-24,India_Uttar Pradesh,26.1,35.1
+2020-06-25,India_Uttar Pradesh,25.7,31.2
+2020-06-26,India_Uttar Pradesh,25.8,32.4
+2020-06-27,India_Uttar Pradesh,25.7,32.5
+2020-06-28,India_Uttar Pradesh,26.3,36
+2020-06-29,India_Uttar Pradesh,27.8,36.6
+2020-06-30,India_Uttar Pradesh,26.1,34.3
+2020-07-01,India_Uttar Pradesh,26.1,32.9
+2020-07-02,India_Uttar Pradesh,26.9,30.8
+2020-07-03,India_Uttar Pradesh,26.9,32.9
+2020-06-18,India_Uttarakhand,27.1,41.1
+2020-06-19,India_Uttarakhand,25.7,41
+2020-06-20,India_Uttarakhand,27.2,42.3
+2020-06-21,India_Uttarakhand,27,42.5
+2020-06-22,India_Uttarakhand,27.9,43.9
+2020-06-23,India_Uttarakhand,26.9,41.8
+2020-06-24,India_Uttarakhand,24,34.4
+2020-06-25,India_Uttarakhand,23.9,29.4
+2020-06-26,India_Uttarakhand,23,30.9
+2020-06-27,India_Uttarakhand,22.9,30.1
+2020-06-28,India_Uttarakhand,23.1,31.4
+2020-06-29,India_Uttarakhand,25.1,33.9
+2020-06-30,India_Uttarakhand,23.6,28.9
+2020-07-01,India_Uttarakhand,23.5,29.4
+2020-07-02,India_Uttarakhand,23.9,29.6
+2020-07-03,India_Uttarakhand,24.1,31.3
+2020-06-18,India_West Bengal,26.6,34.8
+2020-06-19,India_West Bengal,27.2,37.4
+2020-06-20,India_West Bengal,28.2,37.7
+2020-06-21,India_West Bengal,28.8,37.6
+2020-06-22,India_West Bengal,28.7,37.1
+2020-06-23,India_West Bengal,28.3,36.3
+2020-06-24,India_West Bengal,28.3,37.6
+2020-06-25,India_West Bengal,27.9,36.6
+2020-06-26,India_West Bengal,27.5,36.5
+2020-06-27,India_West Bengal,27.1,37.3
+2020-06-28,India_West Bengal,26.9,35.5
+2020-06-29,India_West Bengal,27.1,29.7
+2020-06-30,India_West Bengal,27.4,34.5
+2020-07-01,India_West Bengal,26.8,34.6
+2020-07-02,India_West Bengal,26.6,34.9
+2020-07-03,India_West Bengal,26.9,35.5
