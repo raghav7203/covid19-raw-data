@@ -1,0 +1,89 @@
+date,region,min,max
+2020-06-18,Brazil_nan,13.3,29.6
+2020-06-19,Brazil_nan,18.6,30.7
+2020-06-20,Brazil_nan,10.6,30.5
+2020-06-21,Brazil_nan,11.1,31.2
+2020-06-22,Brazil_nan,10.6,30.5
+2020-06-23,Brazil_nan,10,30.5
+2020-06-24,Brazil_nan,10.6,30.6
+2020-06-25,Brazil_nan,19.6,34
+2020-06-26,Brazil_nan,18.8,33.5
+2020-06-27,Brazil_nan,17.6,34.4
+2020-06-28,Brazil_nan,17.9,32.9
+2020-06-29,Brazil_nan,17.5,32.7
+2020-06-30,Brazil_nan,16.8,33.5
+2020-07-01,Brazil_nan,18.6,34.8
+2020-07-02,Brazil_nan,18.9,34.1
+2020-07-03,Brazil_nan,18.3,36.7
+2020-07-04,Brazil_nan,18.1,35.1
+2020-07-05,Brazil_nan,18.5,35.4
+2020-07-06,Brazil_nan,18.9,34.1
+2020-07-07,Brazil_nan,18.9,34.3
+2020-07-08,Brazil_nan,19.2,33
+2020-07-09,Brazil_nan,18.1,32.4
+2020-07-10,Brazil_nan,18.1,33.1
+2020-07-11,Brazil_nan,24.8,33.8
+2020-06-18,Russia_nan,10,25.1
+2020-06-19,Russia_nan,13.7,20.3
+2020-06-20,Russia_nan,9.3,13.7
+2020-06-21,Russia_nan,7.6,17.7
+2020-06-22,Russia_nan,9.4,24.6
+2020-06-23,Russia_nan,11.5,26.5
+2020-06-24,Russia_nan,14,26
+2020-06-25,Russia_nan,15,25
+2020-06-26,Russia_nan,17.8,28.8
+2020-06-27,Russia_nan,15.6,31
+2020-06-28,Russia_nan,15.3,31.4
+2020-06-29,Russia_nan,12.4,24.8
+2020-06-30,Russia_nan,13.1,25.1
+2020-07-01,Russia_nan,11.6,27.1
+2020-07-02,Russia_nan,15.7,32.6
+2020-07-03,Russia_nan,19.8,34.4
+2020-07-04,Russia_nan,18.3,29.8
+2020-07-05,Russia_nan,16.3,29.3
+2020-07-06,Russia_nan,16.5,31.8
+2020-07-07,Russia_nan,16.2,27.8
+2020-07-08,Russia_nan,11.7,23.8
+2020-07-09,Russia_nan,13.3,26.7
+2020-07-10,Russia_nan,16.7,29.1
+2020-07-11,Russia_nan,12.3,24.8
+2020-06-18,United States_nan,20.5,32.6
+2020-06-19,United States_nan,20.7,30
+2020-06-20,United States_nan,19.4,25
+2020-06-21,United States_nan,19.6,30.2
+2020-06-22,United States_nan,20.8,31.9
+2020-06-23,United States_nan,18.9,32
+2020-06-24,United States_nan,16.1,31.5
+2020-06-25,United States_nan,17,31.7
+2020-06-26,United States_nan,18.9,29.4
+2020-06-27,United States_nan,19.4,31.2
+2020-06-28,United States_nan,23.6,31.3
+2020-06-29,United States_nan,23.1,29.1
+2020-06-30,United States_nan,24.1,33.3
+2020-07-01,United States_nan,24.2,33
+2020-07-02,United States_nan,22.9,32.1
+2020-07-03,United States_nan,21.3,33.5
+2020-07-04,United States_nan,22.4,34
+2020-07-05,United States_nan,22.1,34.3
+2020-07-06,United States_nan,21.1,32.1
+2020-07-07,United States_nan,20.6,28.6
+2020-07-08,United States_nan,22.4,32.1
+2020-07-09,United States_nan,23.2,30.8
+2020-07-10,United States_nan,23.3,34
+2020-07-11,United States_nan,23.6,23.6
+2020-06-26,Spain_nan,19.8,32.3
+2020-06-27,Spain_nan,16.1,31.3
+2020-06-28,Spain_nan,17.8,34.1
+2020-06-29,Spain_nan,22.6,36.6
+2020-06-30,Spain_nan,22.6,36.6
+2020-07-01,Spain_nan,21.6,33.6
+2020-07-02,Spain_nan,17.5,30.4
+2020-07-03,Spain_nan,18.3,32.8
+2020-07-04,Spain_nan,20.1,35.5
+2020-07-05,Spain_nan,22.1,37.2
+2020-07-06,Spain_nan,23.7,39.5
+2020-07-07,Spain_nan,23.9,35.8
+2020-07-08,Spain_nan,22.8,33.7
+2020-07-09,Spain_nan,20.1,31.5
+2020-07-10,Spain_nan,20.9,32.4
+2020-07-11,Spain_nan,20.8,31.9
