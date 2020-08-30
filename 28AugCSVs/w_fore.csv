@@ -1,0 +1,593 @@
+date,region,min,max
+2020-08-29,India_Andaman and Nicobar Islands,27,31.1
+2020-08-30,India_Andaman and Nicobar Islands,27.1,31.1
+2020-08-31,India_Andaman and Nicobar Islands,27.1,30.1
+2020-09-01,India_Andaman and Nicobar Islands,26.6,31.3
+2020-09-02,India_Andaman and Nicobar Islands,26.6,30.9
+2020-09-03,India_Andaman and Nicobar Islands,26.7,30.6
+2020-09-04,India_Andaman and Nicobar Islands,27.1,31.2
+2020-09-05,India_Andaman and Nicobar Islands,26.9,30.9
+2020-09-06,India_Andaman and Nicobar Islands,26.9,31.3
+2020-09-07,India_Andaman and Nicobar Islands,27.3,31.6
+2020-09-08,India_Andaman and Nicobar Islands,27.3,31.6
+2020-09-09,India_Andaman and Nicobar Islands,27.1,30.8
+2020-09-10,India_Andaman and Nicobar Islands,27.1,30.8
+2020-09-11,India_Andaman and Nicobar Islands,25.6,30.1
+2020-09-12,India_Andaman and Nicobar Islands,26.9,30.1
+2020-09-13,India_Andaman and Nicobar Islands,27.2,29.4
+2020-08-29,India_Andhra Pradesh,26.4,36.7
+2020-08-30,India_Andhra Pradesh,26.4,35.7
+2020-08-31,India_Andhra Pradesh,26.7,35.9
+2020-09-01,India_Andhra Pradesh,26.8,34.1
+2020-09-02,India_Andhra Pradesh,25.4,34.2
+2020-09-03,India_Andhra Pradesh,25.3,34.9
+2020-09-04,India_Andhra Pradesh,26.2,35.1
+2020-09-05,India_Andhra Pradesh,25.8,36
+2020-09-06,India_Andhra Pradesh,26.3,36
+2020-09-07,India_Andhra Pradesh,26.6,37.8
+2020-09-08,India_Andhra Pradesh,26.8,33.9
+2020-09-09,India_Andhra Pradesh,26.3,33.6
+2020-09-10,India_Andhra Pradesh,25.4,33.4
+2020-09-11,India_Andhra Pradesh,25.3,32.5
+2020-09-12,India_Andhra Pradesh,25.4,31.1
+2020-09-13,India_Andhra Pradesh,28.3,31.8
+2020-08-29,India_Arunachal Pradesh,22.6,31.1
+2020-08-30,India_Arunachal Pradesh,21.9,30.9
+2020-08-31,India_Arunachal Pradesh,22.4,32.1
+2020-09-01,India_Arunachal Pradesh,23.3,31.4
+2020-09-02,India_Arunachal Pradesh,22.9,33.3
+2020-09-03,India_Arunachal Pradesh,23.3,30.9
+2020-09-04,India_Arunachal Pradesh,23.1,29.5
+2020-09-05,India_Arunachal Pradesh,22.9,27.8
+2020-09-06,India_Arunachal Pradesh,21.9,24
+2020-09-07,India_Arunachal Pradesh,21.8,22.4
+2020-09-08,India_Arunachal Pradesh,21.2,22.1
+2020-09-09,India_Arunachal Pradesh,20.6,21.6
+2020-09-10,India_Arunachal Pradesh,20.6,26.4
+2020-09-11,India_Arunachal Pradesh,21.1,30.8
+2020-09-12,India_Arunachal Pradesh,22.1,31.4
+2020-09-13,India_Arunachal Pradesh,22.6,31.4
+2020-08-29,India_Assam,24.6,32.7
+2020-08-30,India_Assam,24.6,33.1
+2020-08-31,India_Assam,24.9,33.3
+2020-09-01,India_Assam,24.7,30.8
+2020-09-02,India_Assam,25.1,33.2
+2020-09-03,India_Assam,25.8,32.3
+2020-09-04,India_Assam,25.1,32.7
+2020-09-05,India_Assam,24.8,32.6
+2020-09-06,India_Assam,23.8,26.1
+2020-09-07,India_Assam,23.2,23.9
+2020-09-08,India_Assam,23.2,24.9
+2020-09-09,India_Assam,23.1,27.1
+2020-09-10,India_Assam,23.3,28.9
+2020-09-11,India_Assam,23.6,31.7
+2020-09-12,India_Assam,24.8,31.8
+2020-09-13,India_Assam,26.1,31.8
+2020-08-29,India_Bihar,26.6,34.3
+2020-08-30,India_Bihar,27.1,35.3
+2020-08-31,India_Bihar,27.6,36
+2020-09-01,India_Bihar,24.6,29.1
+2020-09-02,India_Bihar,24.6,33
+2020-09-03,India_Bihar,26.3,34.3
+2020-09-04,India_Bihar,27.1,34.8
+2020-09-05,India_Bihar,27.2,35.4
+2020-09-06,India_Bihar,26.1,35.5
+2020-09-07,India_Bihar,22.1,28.9
+2020-09-08,India_Bihar,23.3,29.4
+2020-09-09,India_Bihar,24.5,29.4
+2020-09-10,India_Bihar,24.7,31.1
+2020-09-11,India_Bihar,26,34.2
+2020-09-12,India_Bihar,27,34.3
+2020-09-13,India_Bihar,29.4,34.3
+2020-08-29,India_Chandigarh,24.8,33.5
+2020-08-30,India_Chandigarh,25,33.7
+2020-08-31,India_Chandigarh,25.7,32.9
+2020-09-01,India_Chandigarh,25.2,33.5
+2020-09-02,India_Chandigarh,25.7,32.8
+2020-09-03,India_Chandigarh,25.2,32.5
+2020-09-04,India_Chandigarh,25.2,33.8
+2020-09-05,India_Chandigarh,25.3,34
+2020-09-06,India_Chandigarh,25.6,35.3
+2020-09-07,India_Chandigarh,25.9,35.5
+2020-09-08,India_Chandigarh,24.7,33.3
+2020-09-09,India_Chandigarh,22.3,32.3
+2020-09-10,India_Chandigarh,21.6,30.6
+2020-09-11,India_Chandigarh,22.4,30.9
+2020-09-12,India_Chandigarh,23.9,31.9
+2020-09-13,India_Chandigarh,26.6,31.9
+2020-08-29,India_Chattisgarh,22.9,30.1
+2020-08-30,India_Chattisgarh,22.6,30.9
+2020-08-31,India_Chattisgarh,24.2,32.5
+2020-09-01,India_Chattisgarh,24.4,32.7
+2020-09-02,India_Chattisgarh,25.3,29.2
+2020-09-03,India_Chattisgarh,24.7,33.3
+2020-09-04,India_Chattisgarh,25.1,33
+2020-09-05,India_Chattisgarh,24.9,32.6
+2020-09-06,India_Chattisgarh,24.9,31.9
+2020-09-07,India_Chattisgarh,24.9,32.9
+2020-09-08,India_Chattisgarh,24.3,31.6
+2020-09-09,India_Chattisgarh,24,31.3
+2020-09-10,India_Chattisgarh,24.9,31.9
+2020-09-11,India_Chattisgarh,25.2,31.9
+2020-09-12,India_Chattisgarh,25,31.7
+2020-09-13,India_Chattisgarh,26.6,31
+2020-08-29,India_Dadra and Nagar Haveli,23.9,28.1
+2020-08-30,India_Dadra and Nagar Haveli,23.5,26.3
+2020-08-31,India_Dadra and Nagar Haveli,23.9,29.4
+2020-09-01,India_Dadra and Nagar Haveli,23.2,30.8
+2020-09-02,India_Dadra and Nagar Haveli,24.1,30.7
+2020-09-03,India_Dadra and Nagar Haveli,24.1,31.1
+2020-09-04,India_Dadra and Nagar Haveli,23.9,31.9
+2020-09-05,India_Dadra and Nagar Haveli,24.4,33
+2020-09-06,India_Dadra and Nagar Haveli,24.9,32.7
+2020-09-07,India_Dadra and Nagar Haveli,24.4,30.6
+2020-09-08,India_Dadra and Nagar Haveli,24.5,30.3
+2020-09-09,India_Dadra and Nagar Haveli,24.3,30.1
+2020-09-10,India_Dadra and Nagar Haveli,23.9,30.1
+2020-09-11,India_Dadra and Nagar Haveli,24.7,30.5
+2020-09-12,India_Dadra and Nagar Haveli,24.8,31.3
+2020-09-13,India_Dadra and Nagar Haveli,25.8,31.2
+2020-08-29,India_Daman and Diu,24.2,29
+2020-08-30,India_Daman and Diu,23.9,25.9
+2020-08-31,India_Daman and Diu,24.4,29.4
+2020-09-01,India_Daman and Diu,23.9,30.8
+2020-09-02,India_Daman and Diu,24.7,30.5
+2020-09-03,India_Daman and Diu,24.4,30.9
+2020-09-04,India_Daman and Diu,24.2,31.8
+2020-09-05,India_Daman and Diu,25,33.5
+2020-09-06,India_Daman and Diu,25.4,32.8
+2020-09-07,India_Daman and Diu,25.5,30.6
+2020-09-08,India_Daman and Diu,25.2,30.4
+2020-09-09,India_Daman and Diu,24.8,30.4
+2020-09-10,India_Daman and Diu,24.5,31.1
+2020-09-11,India_Daman and Diu,25,31.1
+2020-09-12,India_Daman and Diu,25,32.5
+2020-09-13,India_Daman and Diu,25.8,31.9
+2020-08-29,India_Delhi,28.6,35.5
+2020-08-30,India_Delhi,27.8,34.9
+2020-08-31,India_Delhi,27.8,35.1
+2020-09-01,India_Delhi,29.3,35.1
+2020-09-02,India_Delhi,28.9,36.5
+2020-09-03,India_Delhi,28.6,37.6
+2020-09-04,India_Delhi,29,37.1
+2020-09-05,India_Delhi,31.1,38
+2020-09-06,India_Delhi,31.9,38.9
+2020-09-07,India_Delhi,29.8,38.9
+2020-09-08,India_Delhi,29.1,36.9
+2020-09-09,India_Delhi,29.2,36.8
+2020-09-10,India_Delhi,27.9,35.1
+2020-09-11,India_Delhi,28.7,35.9
+2020-09-12,India_Delhi,30.4,36.8
+2020-09-13,India_Delhi,33,36.9
+2020-08-29,India_Goa,23.6,29.9
+2020-08-30,India_Goa,23.6,30.1
+2020-08-31,India_Goa,23.2,30.9
+2020-09-01,India_Goa,23.3,31.9
+2020-09-02,India_Goa,23.5,32.5
+2020-09-03,India_Goa,24.2,30.6
+2020-09-04,India_Goa,24.1,35.7
+2020-09-05,India_Goa,24.5,34.1
+2020-09-06,India_Goa,24.4,33
+2020-09-07,India_Goa,24.3,30.9
+2020-09-08,India_Goa,24.8,29.6
+2020-09-09,India_Goa,23.9,30.4
+2020-09-10,India_Goa,24,30.4
+2020-09-11,India_Goa,23.5,30.9
+2020-09-12,India_Goa,24.1,30.8
+2020-09-13,India_Goa,24.6,30.2
+2020-08-29,India_Gujarat,26.7,33
+2020-08-30,India_Gujarat,24.6,27
+2020-08-31,India_Gujarat,25.1,27.9
+2020-09-01,India_Gujarat,24.8,34.3
+2020-09-02,India_Gujarat,25.7,32.7
+2020-09-03,India_Gujarat,26.8,33.4
+2020-09-04,India_Gujarat,27,33.5
+2020-09-05,India_Gujarat,27.1,35.1
+2020-09-06,India_Gujarat,27.1,35.5
+2020-09-07,India_Gujarat,26.1,35.1
+2020-09-08,India_Gujarat,26.4,32.5
+2020-09-09,India_Gujarat,26.2,32.4
+2020-09-10,India_Gujarat,26.8,31.7
+2020-09-11,India_Gujarat,27.5,33.1
+2020-09-12,India_Gujarat,28.5,34.3
+2020-09-13,India_Gujarat,31.4,35.8
+2020-08-29,India_Haryana,15.9,22.6
+2020-08-30,India_Haryana,16.6,23.7
+2020-08-31,India_Haryana,17.1,24.4
+2020-09-01,India_Haryana,17,24.2
+2020-09-02,India_Haryana,17.9,22.2
+2020-09-03,India_Haryana,17.6,23.4
+2020-09-04,India_Haryana,17.3,24.4
+2020-09-05,India_Haryana,17.3,24.8
+2020-09-06,India_Haryana,16.9,25.1
+2020-09-07,India_Haryana,16.9,25.4
+2020-09-08,India_Haryana,16.2,25.4
+2020-09-09,India_Haryana,15.3,22.6
+2020-09-10,India_Haryana,14.6,22.6
+2020-09-11,India_Haryana,15,23.6
+2020-09-12,India_Haryana,14.8,23.9
+2020-09-13,India_Haryana,15.2,24
+2020-08-29,India_Himachal Pradesh,27.9,35.7
+2020-08-30,India_Himachal Pradesh,27.6,36.6
+2020-08-31,India_Himachal Pradesh,27.2,35
+2020-09-01,India_Himachal Pradesh,27.2,33.9
+2020-09-02,India_Himachal Pradesh,27.5,35.6
+2020-09-03,India_Himachal Pradesh,28.2,34.5
+2020-09-04,India_Himachal Pradesh,27.9,37.3
+2020-09-05,India_Himachal Pradesh,28,37
+2020-09-06,India_Himachal Pradesh,29.6,38.4
+2020-09-07,India_Himachal Pradesh,28.1,38.6
+2020-09-08,India_Himachal Pradesh,27,35.6
+2020-09-09,India_Himachal Pradesh,26.8,35.6
+2020-09-10,India_Himachal Pradesh,27,35
+2020-09-11,India_Himachal Pradesh,27.6,36.3
+2020-09-12,India_Himachal Pradesh,28.5,37.6
+2020-09-13,India_Himachal Pradesh,30.8,37.6
+2020-08-29,India_Jammu and Kashmir,25.6,34
+2020-08-30,India_Jammu and Kashmir,26.9,35.5
+2020-08-31,India_Jammu and Kashmir,27.6,35.4
+2020-09-01,India_Jammu and Kashmir,26,31.7
+2020-09-02,India_Jammu and Kashmir,25,33.4
+2020-09-03,India_Jammu and Kashmir,25.6,33.4
+2020-09-04,India_Jammu and Kashmir,26.3,34.6
+2020-09-05,India_Jammu and Kashmir,26.9,35.1
+2020-09-06,India_Jammu and Kashmir,27.6,36.3
+2020-09-07,India_Jammu and Kashmir,27.3,35
+2020-09-08,India_Jammu and Kashmir,24.5,33.3
+2020-09-09,India_Jammu and Kashmir,27,34.1
+2020-09-10,India_Jammu and Kashmir,27,34.2
+2020-09-11,India_Jammu and Kashmir,27,33.9
+2020-09-12,India_Jammu and Kashmir,26.7,33.7
+2020-09-13,India_Jammu and Kashmir,28.1,33.6
+2020-08-29,India_Jharkhand,13.6,28.2
+2020-08-30,India_Jharkhand,13.9,28.9
+2020-08-31,India_Jharkhand,14,29.1
+2020-09-01,India_Jharkhand,15.9,30.1
+2020-09-02,India_Jharkhand,16,30.7
+2020-09-03,India_Jharkhand,16.1,30.6
+2020-09-04,India_Jharkhand,15.6,30.5
+2020-09-05,India_Jharkhand,15.4,30.4
+2020-09-06,India_Jharkhand,14.7,30.7
+2020-09-07,India_Jharkhand,14.1,30.8
+2020-09-08,India_Jharkhand,13.4,26.9
+2020-09-09,India_Jharkhand,12.8,25.4
+2020-09-10,India_Jharkhand,11.4,24.9
+2020-09-11,India_Jharkhand,11.7,24.9
+2020-09-12,India_Jharkhand,10.1,24.4
+2020-09-13,India_Jharkhand,13.8,25.4
+2020-08-29,India_Karnataka,21.3,29.4
+2020-08-30,India_Karnataka,21.4,30
+2020-08-31,India_Karnataka,21.2,30.8
+2020-09-01,India_Karnataka,21.8,30.3
+2020-09-02,India_Karnataka,22.9,30.3
+2020-09-03,India_Karnataka,22.2,29.9
+2020-09-04,India_Karnataka,24,31.5
+2020-09-05,India_Karnataka,24.6,31.9
+2020-09-06,India_Karnataka,23.1,31.5
+2020-09-07,India_Karnataka,21.9,30.4
+2020-09-08,India_Karnataka,22.7,28.4
+2020-09-09,India_Karnataka,22.3,28.4
+2020-09-10,India_Karnataka,21.6,27.7
+2020-09-11,India_Karnataka,21.6,27.5
+2020-09-12,India_Karnataka,22.1,28.2
+2020-09-13,India_Karnataka,22.6,27.9
+2020-08-29,India_Kerala,22.3,31.8
+2020-08-30,India_Kerala,22.9,32.1
+2020-08-31,India_Kerala,22.9,32.8
+2020-09-01,India_Kerala,23.8,31.8
+2020-09-02,India_Kerala,23.5,34.2
+2020-09-03,India_Kerala,23.4,35.5
+2020-09-04,India_Kerala,23.1,35.4
+2020-09-05,India_Kerala,22.8,32.4
+2020-09-06,India_Kerala,22.9,33.2
+2020-09-07,India_Kerala,23.4,33
+2020-09-08,India_Kerala,22.8,31.1
+2020-09-09,India_Kerala,23.4,30.8
+2020-09-10,India_Kerala,23,29.3
+2020-09-11,India_Kerala,22.2,25.4
+2020-09-12,India_Kerala,22.5,26.8
+2020-09-13,India_Kerala,22.8,26.4
+2020-08-29,India_Ladakh,3.2,12.3
+2020-08-30,India_Ladakh,5,13.2
+2020-08-31,India_Ladakh,5.5,14.5
+2020-09-01,India_Ladakh,6.9,17.6
+2020-09-02,India_Ladakh,8,17.9
+2020-09-03,India_Ladakh,7.7,16.4
+2020-09-04,India_Ladakh,7,15.9
+2020-09-05,India_Ladakh,6.4,14.9
+2020-09-06,India_Ladakh,6.1,15.3
+2020-09-07,India_Ladakh,6,14.8
+2020-09-08,India_Ladakh,4.3,13.2
+2020-09-09,India_Ladakh,2.5,11.1
+2020-09-10,India_Ladakh,1.4,7.6
+2020-09-11,India_Ladakh,1.3,8.3
+2020-09-12,India_Ladakh,0.7,7.5
+2020-09-13,India_Ladakh,4.7,8.5
+2020-08-29,India_Lakshadweep,27.4,28.4
+2020-08-30,India_Lakshadweep,27.6,28.2
+2020-08-31,India_Lakshadweep,27.3,28.4
+2020-09-01,India_Lakshadweep,27.6,28.3
+2020-09-02,India_Lakshadweep,27.6,28.3
+2020-09-03,India_Lakshadweep,27,28.2
+2020-09-04,India_Lakshadweep,27.9,28.6
+2020-09-05,India_Lakshadweep,25.9,28.1
+2020-09-06,India_Lakshadweep,27.3,28.5
+2020-09-07,India_Lakshadweep,27.1,28.6
+2020-09-08,India_Lakshadweep,27.3,28.6
+2020-09-09,India_Lakshadweep,27.6,28.1
+2020-09-10,India_Lakshadweep,26.9,28.4
+2020-09-11,India_Lakshadweep,26.8,28.3
+2020-09-12,India_Lakshadweep,25.6,27.3
+2020-09-13,India_Lakshadweep,27.1,27.6
+2020-08-29,India_Madhya Pradesh,22.9,28.1
+2020-08-30,India_Madhya Pradesh,21.9,27.7
+2020-08-31,India_Madhya Pradesh,21.3,29.1
+2020-09-01,India_Madhya Pradesh,21.5,29
+2020-09-02,India_Madhya Pradesh,22.7,30.4
+2020-09-03,India_Madhya Pradesh,23.4,30.9
+2020-09-04,India_Madhya Pradesh,23.8,31.2
+2020-09-05,India_Madhya Pradesh,24.3,30.9
+2020-09-06,India_Madhya Pradesh,23.6,31.6
+2020-09-07,India_Madhya Pradesh,22.4,30.3
+2020-09-08,India_Madhya Pradesh,21.9,28.6
+2020-09-09,India_Madhya Pradesh,21.2,28.6
+2020-09-10,India_Madhya Pradesh,22.9,29.9
+2020-09-11,India_Madhya Pradesh,23.8,30.2
+2020-09-12,India_Madhya Pradesh,24,31.8
+2020-09-13,India_Madhya Pradesh,26.1,31.8
+2020-08-29,India_Maharashtra,18.6,24.1
+2020-08-30,India_Maharashtra,18.6,24.7
+2020-08-31,India_Maharashtra,18.5,25.4
+2020-09-01,India_Maharashtra,19,22
+2020-09-02,India_Maharashtra,17.9,26.1
+2020-09-03,India_Maharashtra,17.8,25.4
+2020-09-04,India_Maharashtra,17.8,24.6
+2020-09-05,India_Maharashtra,18.8,23.1
+2020-09-06,India_Maharashtra,18.3,19.8
+2020-09-07,India_Maharashtra,18.4,19.1
+2020-09-08,India_Maharashtra,18,18.8
+2020-09-09,India_Maharashtra,17.9,19.4
+2020-09-10,India_Maharashtra,16.8,20.6
+2020-09-11,India_Maharashtra,16.7,27
+2020-09-12,India_Maharashtra,17.6,26.9
+2020-09-13,India_Maharashtra,18,26.3
+2020-08-29,India_Manipur,19.1,28.9
+2020-08-30,India_Manipur,19.4,29.3
+2020-08-31,India_Manipur,20.4,28.6
+2020-09-01,India_Manipur,19.7,29.2
+2020-09-02,India_Manipur,18.9,30.3
+2020-09-03,India_Manipur,19.7,29.3
+2020-09-04,India_Manipur,19.5,28.8
+2020-09-05,India_Manipur,19.2,28.1
+2020-09-06,India_Manipur,19.6,26.8
+2020-09-07,India_Manipur,19.9,25.9
+2020-09-08,India_Manipur,19.9,20.9
+2020-09-09,India_Manipur,19.1,24.4
+2020-09-10,India_Manipur,18.6,27.4
+2020-09-11,India_Manipur,19.1,26.6
+2020-09-12,India_Manipur,19.9,27.6
+2020-09-13,India_Manipur,19.8,27.6
+2020-08-29,India_Meghalaya,22.5,24.4
+2020-08-30,India_Meghalaya,22.1,29.5
+2020-08-31,India_Meghalaya,21.7,30.6
+2020-09-01,India_Meghalaya,22,30.1
+2020-09-02,India_Meghalaya,22.8,30.8
+2020-09-03,India_Meghalaya,24.2,32.5
+2020-09-04,India_Meghalaya,24.6,32
+2020-09-05,India_Meghalaya,25.2,33.5
+2020-09-06,India_Meghalaya,26,33.6
+2020-09-07,India_Meghalaya,24.4,31.9
+2020-09-08,India_Meghalaya,24.3,30.6
+2020-09-09,India_Meghalaya,23.6,30.7
+2020-09-10,India_Meghalaya,23.5,29.1
+2020-09-11,India_Meghalaya,22.6,27.8
+2020-09-12,India_Meghalaya,24.3,30
+2020-09-13,India_Meghalaya,25.4,30.9
+2020-08-29,India_Mizoram,20.3,31.4
+2020-08-30,India_Mizoram,20.6,32.8
+2020-08-31,India_Mizoram,21.8,32.4
+2020-09-01,India_Mizoram,21.1,28.3
+2020-09-02,India_Mizoram,20.8,31.6
+2020-09-03,India_Mizoram,21.1,31.6
+2020-09-04,India_Mizoram,21.3,32.9
+2020-09-05,India_Mizoram,21,31.4
+2020-09-06,India_Mizoram,20.6,31.1
+2020-09-07,India_Mizoram,21.4,27.5
+2020-09-08,India_Mizoram,20.7,25.3
+2020-09-09,India_Mizoram,20.9,23.9
+2020-09-10,India_Mizoram,19.8,28.4
+2020-09-11,India_Mizoram,20.4,31.4
+2020-09-12,India_Mizoram,20.9,32.6
+2020-09-13,India_Mizoram,22.1,32.6
+2020-08-29,India_Nagaland,19.6,28.1
+2020-08-30,India_Nagaland,19.6,26.4
+2020-08-31,India_Nagaland,20,27.6
+2020-09-01,India_Nagaland,19.8,26.6
+2020-09-02,India_Nagaland,19.6,28.4
+2020-09-03,India_Nagaland,19.9,28.2
+2020-09-04,India_Nagaland,19,27.5
+2020-09-05,India_Nagaland,19.4,27.1
+2020-09-06,India_Nagaland,19.4,25.5
+2020-09-07,India_Nagaland,19.3,20.9
+2020-09-08,India_Nagaland,19.2,20.6
+2020-09-09,India_Nagaland,18.7,20.8
+2020-09-10,India_Nagaland,18.5,25.4
+2020-09-11,India_Nagaland,18.9,26.2
+2020-09-12,India_Nagaland,19.7,26.9
+2020-09-13,India_Nagaland,19.8,26.2
+2020-08-29,India_Odisha,23.1,31.5
+2020-08-30,India_Odisha,24.1,31.7
+2020-08-31,India_Odisha,25.1,32.2
+2020-09-01,India_Odisha,24.9,31.1
+2020-09-02,India_Odisha,23.9,30.4
+2020-09-03,India_Odisha,23.6,32
+2020-09-04,India_Odisha,23.8,32.4
+2020-09-05,India_Odisha,24.4,32
+2020-09-06,India_Odisha,25.1,32.1
+2020-09-07,India_Odisha,25.1,31.9
+2020-09-08,India_Odisha,24.3,31.9
+2020-09-09,India_Odisha,23.9,32
+2020-09-10,India_Odisha,24.7,33
+2020-09-11,India_Odisha,24.2,33
+2020-09-12,India_Odisha,23.1,31.7
+2020-09-13,India_Odisha,25.4,31.5
+2020-08-29,India_Puducherry,24.9,33.3
+2020-08-30,India_Puducherry,25.4,33.1
+2020-08-31,India_Puducherry,25.5,32.9
+2020-09-01,India_Puducherry,25.2,34
+2020-09-02,India_Puducherry,24.9,32.9
+2020-09-03,India_Puducherry,24.8,33.5
+2020-09-04,India_Puducherry,25.5,33.1
+2020-09-05,India_Puducherry,25.4,34
+2020-09-06,India_Puducherry,25.9,35.9
+2020-09-07,India_Puducherry,25.6,36
+2020-09-08,India_Puducherry,24.7,34.1
+2020-09-09,India_Puducherry,22.6,32.9
+2020-09-10,India_Puducherry,21.6,32.2
+2020-09-11,India_Puducherry,22.6,31.1
+2020-09-12,India_Puducherry,24,32.5
+2020-09-13,India_Puducherry,26.1,32.4
+2020-08-29,India_Punjab,26.3,36.1
+2020-08-30,India_Punjab,26.9,35.2
+2020-08-31,India_Punjab,26.6,34.6
+2020-09-01,India_Punjab,25.7,34.9
+2020-09-02,India_Punjab,26,33.9
+2020-09-03,India_Punjab,26.1,33.8
+2020-09-04,India_Punjab,25.9,33.1
+2020-09-05,India_Punjab,25.7,32.4
+2020-09-06,India_Punjab,25.9,35.7
+2020-09-07,India_Punjab,26.5,36.9
+2020-09-08,India_Punjab,24.8,34
+2020-09-09,India_Punjab,26.1,31.4
+2020-09-10,India_Punjab,24.3,31.5
+2020-09-11,India_Punjab,23.2,28.4
+2020-09-12,India_Punjab,24.5,32.1
+2020-09-13,India_Punjab,26.6,32.1
+2020-08-29,India_Rajasthan,30.4,35.4
+2020-08-30,India_Rajasthan,29.1,36.3
+2020-08-31,India_Rajasthan,27,33.4
+2020-09-01,India_Rajasthan,25.4,31.2
+2020-09-02,India_Rajasthan,27.2,30.5
+2020-09-03,India_Rajasthan,26.9,33.8
+2020-09-04,India_Rajasthan,28,34.1
+2020-09-05,India_Rajasthan,28,35.6
+2020-09-06,India_Rajasthan,27.4,36
+2020-09-07,India_Rajasthan,24.9,35.5
+2020-09-08,India_Rajasthan,25,33.9
+2020-09-09,India_Rajasthan,25.4,31.8
+2020-09-10,India_Rajasthan,25.9,33.7
+2020-09-11,India_Rajasthan,27,34.5
+2020-09-12,India_Rajasthan,29.2,35.5
+2020-09-13,India_Rajasthan,32.7,36.5
+2020-08-29,India_Sikkim,17.8,26.9
+2020-08-30,India_Sikkim,18.1,27.5
+2020-08-31,India_Sikkim,18.4,28.3
+2020-09-01,India_Sikkim,18.9,26.4
+2020-09-02,India_Sikkim,18.8,26.9
+2020-09-03,India_Sikkim,18.5,27
+2020-09-04,India_Sikkim,19.2,26.4
+2020-09-05,India_Sikkim,19.1,26.4
+2020-09-06,India_Sikkim,18.9,23.4
+2020-09-07,India_Sikkim,18.4,22.6
+2020-09-08,India_Sikkim,18.1,22.9
+2020-09-09,India_Sikkim,17.7,24.4
+2020-09-10,India_Sikkim,16.8,24.9
+2020-09-11,India_Sikkim,16.9,25.4
+2020-09-12,India_Sikkim,17,26.3
+2020-09-13,India_Sikkim,18.1,25.3
+2020-08-29,India_Tamil Nadu,22.1,27.9
+2020-08-30,India_Tamil Nadu,22.1,28.5
+2020-08-31,India_Tamil Nadu,21.6,30.3
+2020-09-01,India_Tamil Nadu,22.4,29.4
+2020-09-02,India_Tamil Nadu,23.2,29.9
+2020-09-03,India_Tamil Nadu,23.2,31.1
+2020-09-04,India_Tamil Nadu,23.6,32
+2020-09-05,India_Tamil Nadu,23.2,32.3
+2020-09-06,India_Tamil Nadu,23.6,32.2
+2020-09-07,India_Tamil Nadu,23.7,30.8
+2020-09-08,India_Tamil Nadu,24,29.1
+2020-09-09,India_Tamil Nadu,24.1,29.9
+2020-09-10,India_Tamil Nadu,23,30
+2020-09-11,India_Tamil Nadu,23.2,29.2
+2020-09-12,India_Tamil Nadu,23.1,29.8
+2020-09-13,India_Tamil Nadu,25.1,29.8
+2020-08-29,India_Telangana,25.4,36.2
+2020-08-30,India_Telangana,26,35.5
+2020-08-31,India_Telangana,25.9,35.6
+2020-09-01,India_Telangana,25.4,35.4
+2020-09-02,India_Telangana,25.8,34.6
+2020-09-03,India_Telangana,26,34.5
+2020-09-04,India_Telangana,25.6,33.5
+2020-09-05,India_Telangana,25.2,33.5
+2020-09-06,India_Telangana,25.9,34.5
+2020-09-07,India_Telangana,26.1,36.5
+2020-09-08,India_Telangana,25.3,33.8
+2020-09-09,India_Telangana,25.1,32
+2020-09-10,India_Telangana,24.6,32.1
+2020-09-11,India_Telangana,22.6,25.5
+2020-09-12,India_Telangana,23.5,30.6
+2020-09-13,India_Telangana,25.6,30.6
+2020-08-29,India_Tripura,23.4,32.5
+2020-08-30,India_Tripura,23.9,31.8
+2020-08-31,India_Tripura,24.2,31.4
+2020-09-01,India_Tripura,23,26.2
+2020-09-02,India_Tripura,22.6,34.1
+2020-09-03,India_Tripura,23.3,33.5
+2020-09-04,India_Tripura,23.1,32.4
+2020-09-05,India_Tripura,23.7,31.6
+2020-09-06,India_Tripura,23.9,30.9
+2020-09-07,India_Tripura,23.1,24.8
+2020-09-08,India_Tripura,22.3,29.1
+2020-09-09,India_Tripura,23.4,30.1
+2020-09-10,India_Tripura,23,29.5
+2020-09-11,India_Tripura,23.1,33.7
+2020-09-12,India_Tripura,23.4,33.8
+2020-09-13,India_Tripura,23.9,33.2
+2020-08-29,India_Uttar Pradesh,24.6,32.8
+2020-08-30,India_Uttar Pradesh,25.3,33
+2020-08-31,India_Uttar Pradesh,25.6,32.6
+2020-09-01,India_Uttar Pradesh,25.8,33.5
+2020-09-02,India_Uttar Pradesh,25,28.6
+2020-09-03,India_Uttar Pradesh,24.7,33.5
+2020-09-04,India_Uttar Pradesh,26.4,34.3
+2020-09-05,India_Uttar Pradesh,26.5,35
+2020-09-06,India_Uttar Pradesh,26.8,34.6
+2020-09-07,India_Uttar Pradesh,26.3,34.6
+2020-09-08,India_Uttar Pradesh,25.4,33
+2020-09-09,India_Uttar Pradesh,23.6,31.8
+2020-09-10,India_Uttar Pradesh,23.6,31.8
+2020-09-11,India_Uttar Pradesh,23.1,32.2
+2020-09-12,India_Uttar Pradesh,24.1,32.2
+2020-09-13,India_Uttar Pradesh,26.8,32.2
+2020-08-29,India_Uttarakhand,21.8,30.6
+2020-08-30,India_Uttarakhand,22.4,31.8
+2020-08-31,India_Uttarakhand,22.9,30.3
+2020-09-01,India_Uttarakhand,23,31.1
+2020-09-02,India_Uttarakhand,23.4,28.6
+2020-09-03,India_Uttarakhand,22.4,31.9
+2020-09-04,India_Uttarakhand,23.2,31.3
+2020-09-05,India_Uttarakhand,23.4,31.9
+2020-09-06,India_Uttarakhand,23.4,32.2
+2020-09-07,India_Uttarakhand,23.3,32.8
+2020-09-08,India_Uttarakhand,22.2,31.6
+2020-09-09,India_Uttarakhand,21.2,28.3
+2020-09-10,India_Uttarakhand,20.2,29.1
+2020-09-11,India_Uttarakhand,20.6,29.6
+2020-09-12,India_Uttarakhand,21.2,30.4
+2020-09-13,India_Uttarakhand,23.4,30.4
+2020-08-29,India_West Bengal,25.4,34
+2020-08-30,India_West Bengal,26.3,35.5
+2020-08-31,India_West Bengal,27.2,35.3
+2020-09-01,India_West Bengal,26.6,30.5
+2020-09-02,India_West Bengal,25.4,33.2
+2020-09-03,India_West Bengal,25.5,33.8
+2020-09-04,India_West Bengal,25.9,34.2
+2020-09-05,India_West Bengal,25.7,34.3
+2020-09-06,India_West Bengal,26,33.5
+2020-09-07,India_West Bengal,26.6,34
+2020-09-08,India_West Bengal,25.4,34
+2020-09-09,India_West Bengal,26.9,33.9
+2020-09-10,India_West Bengal,26.1,34.8
+2020-09-11,India_West Bengal,26,34.8
+2020-09-12,India_West Bengal,25.8,33.7
+2020-09-13,India_West Bengal,26.3,33.7
